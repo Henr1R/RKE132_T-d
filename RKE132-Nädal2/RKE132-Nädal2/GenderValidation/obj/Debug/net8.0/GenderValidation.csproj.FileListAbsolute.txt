@@ -1,0 +1,14 @@
+C:\Users\Henri\source\repos\GenderValidation\bin\Debug\net8.0\GenderValidation.exe
+C:\Users\Henri\source\repos\GenderValidation\bin\Debug\net8.0\GenderValidation.deps.json
+C:\Users\Henri\source\repos\GenderValidation\bin\Debug\net8.0\GenderValidation.runtimeconfig.json
+C:\Users\Henri\source\repos\GenderValidation\bin\Debug\net8.0\GenderValidation.dll
+C:\Users\Henri\source\repos\GenderValidation\bin\Debug\net8.0\GenderValidation.pdb
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\GenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\GenderValidation.AssemblyInfoInputs.cache
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\GenderValidation.AssemblyInfo.cs
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\GenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\GenderValidation.dll
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\refint\GenderValidation.dll
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\GenderValidation.pdb
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\GenderValidation.genruntimeconfig.cache
+C:\Users\Henri\source\repos\GenderValidation\obj\Debug\net8.0\ref\GenderValidation.dll

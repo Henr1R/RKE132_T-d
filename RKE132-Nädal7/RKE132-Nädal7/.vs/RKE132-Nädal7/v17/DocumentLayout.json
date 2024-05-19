@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6A80DB-4EB0-4A92-933B-D9603C0F4868}|RKE132-N\u00E4dal7.csproj|c:\\users\\henri\\source\\repos\\rke132-n\u00E4dal7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6A80DB-4EB0-4A92-933B-D9603C0F4868}|RKE132-N\u00E4dal7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383A8449-CECC-4A56-AA72-6BC7AF8FDB30}|..\\DiscountCalculator\\DiscountCalculator.csproj|c:\\users\\henri\\source\\repos\\discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80A226C-EB78-4E6D-8A98-EC41EED75F1D}|..\\Calculator\\Calculator.csproj|c:\\users\\henri\\source\\repos\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7DE3D7-3320-4E11-B282-85D3CA61ABE4}|..\\ArgumentsAndParameters\\ArgumentsAndParameters.csproj|c:\\users\\henri\\source\\repos\\argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\DiscountCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DiscountCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\DiscountCalculator\\Program.cs",
+              "RelativeToolTip": "..\\DiscountCalculator\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:11:14.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\Calculator\\Program.cs",
+              "RelativeToolTip": "..\\Calculator\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:10:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\ArgumentsAndParameters\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ArgumentsAndParameters\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\ArgumentsAndParameters\\Program.cs",
+              "RelativeToolTip": "..\\ArgumentsAndParameters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:09:14.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:07:52.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

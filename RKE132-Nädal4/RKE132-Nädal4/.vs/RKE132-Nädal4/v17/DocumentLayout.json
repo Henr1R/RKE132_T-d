@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D563F0-2565-4301-96E2-248D5CA3B38E}|..\\Moodle\\Moodle.csproj|c:\\users\\henri\\source\\repos\\moodle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D563F0-2565-4301-96E2-248D5CA3B38E}|..\\Moodle\\Moodle.csproj|c:\\users\\henri\\source\\repos\\moodle\\moodle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF83D4B8-B38A-4E85-A4F3-035D0EE38CFF}|RKE132-N\u00E4dal4.csproj|c:\\users\\henri\\source\\repos\\rke132-n\u00E4dal4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF83D4B8-B38A-4E85-A4F3-035D0EE38CFF}|RKE132-N\u00E4dal4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52623483-7441-4DD2-BA2D-57D93CF739D7}|..\\While\\While.csproj|c:\\users\\henri\\source\\repos\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB30E7C-FB8D-4C7D-8145-0127AB4684F6}|..\\RandomNumber\\RandomNumber.csproj|c:\\users\\henri\\source\\repos\\randomnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A0DC3C-EB11-4E74-8D91-14D598053EA6}|..\\ForLoopSum\\ForLoopSum.csproj|c:\\users\\henri\\source\\repos\\forloopsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moodle",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\Moodle\\Moodle.csproj",
+              "RelativeDocumentMoniker": "..\\Moodle\\Moodle.csproj",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\Moodle\\Moodle.csproj",
+              "RelativeToolTip": "..\\Moodle\\Moodle.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T13:41:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\Moodle\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Moodle\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\Moodle\\Program.cs",
+              "RelativeToolTip": "..\\Moodle\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:41:09.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\While\\Program.cs",
+              "RelativeDocumentMoniker": "..\\While\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\While\\Program.cs",
+              "RelativeToolTip": "..\\While\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:38:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\RandomNumber\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RandomNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\RandomNumber\\Program.cs",
+              "RelativeToolTip": "..\\RandomNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:38:24.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\ForLoopSum\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ForLoopSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\ForLoopSum\\Program.cs",
+              "RelativeToolTip": "..\\ForLoopSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:37:49.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:35:25.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

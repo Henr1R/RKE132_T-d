@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RKE132-Nädal6", "RKE132-Nädal6.csproj", "{B233A09C-9D63-417F-92BA-038487379FE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NumberArray", "NumberArray", "{CF967119-EE56-4615-AFA2-484C50FF5A06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{7C4A255F-9A31-4BEA-9F4A-793EB57A97B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nädal6", "Nädal6", "{28B6BFE8-69CD-415C-A5A2-D3B2637E382F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RandomElement", "RandomElement", "{D08DF32F-3233-4226-921E-223B59C81E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberArray", "NumberArray\NumberArray.csproj", "{4CD2A54E-418C-455A-A75C-915987CBE85D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "ConsoleApp1\Arrays.csproj", "{FB083CAB-7AE1-40CB-AD73-0E4B6470AE91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B233A09C-9D63-417F-92BA-038487379FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B233A09C-9D63-417F-92BA-038487379FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B233A09C-9D63-417F-92BA-038487379FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B233A09C-9D63-417F-92BA-038487379FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD2A54E-418C-455A-A75C-915987CBE85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD2A54E-418C-455A-A75C-915987CBE85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD2A54E-418C-455A-A75C-915987CBE85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD2A54E-418C-455A-A75C-915987CBE85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB083CAB-7AE1-40CB-AD73-0E4B6470AE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB083CAB-7AE1-40CB-AD73-0E4B6470AE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB083CAB-7AE1-40CB-AD73-0E4B6470AE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB083CAB-7AE1-40CB-AD73-0E4B6470AE91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B233A09C-9D63-417F-92BA-038487379FE8} = {28B6BFE8-69CD-415C-A5A2-D3B2637E382F}
+		{CF967119-EE56-4615-AFA2-484C50FF5A06} = {28B6BFE8-69CD-415C-A5A2-D3B2637E382F}
+		{7C4A255F-9A31-4BEA-9F4A-793EB57A97B5} = {28B6BFE8-69CD-415C-A5A2-D3B2637E382F}
+		{D08DF32F-3233-4226-921E-223B59C81E05} = {28B6BFE8-69CD-415C-A5A2-D3B2637E382F}
+		{4CD2A54E-418C-455A-A75C-915987CBE85D} = {CF967119-EE56-4615-AFA2-484C50FF5A06}
+		{FB083CAB-7AE1-40CB-AD73-0E4B6470AE91} = {7C4A255F-9A31-4BEA-9F4A-793EB57A97B5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B84430C-5625-46FD-B680-549419A585F1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Henri\source\repos\ForLoopSum\bin\Debug\net5.0\ForLoopSum.exe
+C:\Users\Henri\source\repos\ForLoopSum\bin\Debug\net5.0\ForLoopSum.deps.json
+C:\Users\Henri\source\repos\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.json
+C:\Users\Henri\source\repos\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.dev.json
+C:\Users\Henri\source\repos\ForLoopSum\bin\Debug\net5.0\ForLoopSum.dll
+C:\Users\Henri\source\repos\ForLoopSum\bin\Debug\net5.0\ForLoopSum.pdb
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ForLoopSum.dll
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\refint\ForLoopSum.dll
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ForLoopSum.pdb
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ForLoopSum.genruntimeconfig.cache
+C:\Users\Henri\source\repos\ForLoopSum\obj\Debug\net5.0\ref\ForLoopSum.dll

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RKE132-Nädal3", "RKE132-Nädal3.csproj", "{2472E318-F6BC-4489-A2AF-8D1CB50D696B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IfDdayOftheWeek", "IfDdayOftheWeek", "{F55450CB-BBF8-4F87-9FE5-CED44BB40A18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OddorEveN", "OddorEveN", "{35734526-EAA8-464C-9D2C-EAC1CA6ECD54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SwitchDayOfTheWeek", "SwitchDayOfTheWeek", "{00E0AFC1-B0AE-4092-ADD1-EC815F8A4F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfdayOfTheWeekk", "..\IfdayOfTheWeekk\IfdayOfTheWeekk.csproj", "{5AD563F0-93E0-4244-A4AD-33182246349E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven", "..\OddOrEven\OddOrEven.csproj", "{87E51B10-8B7E-476C-96DC-B499F0953C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchDayOfTheWeek", "..\SwitchDayOfTheWeek\SwitchDayOfTheWeek.csproj", "{8273AC85-9343-4FD8-8AFC-5E709D7750EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2472E318-F6BC-4489-A2AF-8D1CB50D696B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2472E318-F6BC-4489-A2AF-8D1CB50D696B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2472E318-F6BC-4489-A2AF-8D1CB50D696B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2472E318-F6BC-4489-A2AF-8D1CB50D696B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD563F0-93E0-4244-A4AD-33182246349E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD563F0-93E0-4244-A4AD-33182246349E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD563F0-93E0-4244-A4AD-33182246349E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD563F0-93E0-4244-A4AD-33182246349E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E51B10-8B7E-476C-96DC-B499F0953C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E51B10-8B7E-476C-96DC-B499F0953C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E51B10-8B7E-476C-96DC-B499F0953C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E51B10-8B7E-476C-96DC-B499F0953C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8273AC85-9343-4FD8-8AFC-5E709D7750EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8273AC85-9343-4FD8-8AFC-5E709D7750EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8273AC85-9343-4FD8-8AFC-5E709D7750EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8273AC85-9343-4FD8-8AFC-5E709D7750EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5AD563F0-93E0-4244-A4AD-33182246349E} = {F55450CB-BBF8-4F87-9FE5-CED44BB40A18}
+		{87E51B10-8B7E-476C-96DC-B499F0953C21} = {35734526-EAA8-464C-9D2C-EAC1CA6ECD54}
+		{8273AC85-9343-4FD8-8AFC-5E709D7750EC} = {00E0AFC1-B0AE-4092-ADD1-EC815F8A4F20}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {973F7BD7-E9EC-46AD-BE3B-D04D9D7D76BB}
+	EndGlobalSection
+EndGlobal

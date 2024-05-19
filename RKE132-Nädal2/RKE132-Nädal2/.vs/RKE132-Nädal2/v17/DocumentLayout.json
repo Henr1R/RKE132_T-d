@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B47107-1AF3-4C65-902C-A77A8D06610C}|..\\GenderValidation\\GenderValidation.csproj|c:\\users\\henri\\source\\repos\\gendervalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A68A18-ACDF-4E73-99E1-506BFFF5EB82}|..\\AgeValidation\\AgeValidation.csproj|c:\\users\\henri\\source\\repos\\agevalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227FC9EF-A93C-4FC6-B1D3-5F99AB1B8590}|RKE132-N\u00E4dal2.csproj|c:\\users\\henri\\source\\repos\\rke132-n\u00E4dal2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227FC9EF-A93C-4FC6-B1D3-5F99AB1B8590}|RKE132-N\u00E4dal2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A68A18-ACDF-4E73-99E1-506BFFF5EB82}|..\\AgeValidation\\AgeValidation.csproj|c:\\users\\henri\\source\\repos\\agevalidation\\agevalidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\RKE132-N\u00E4dal2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:14.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgeValidation",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\AgeValidation\\AgeValidation.csproj",
+              "RelativeDocumentMoniker": "..\\AgeValidation\\AgeValidation.csproj",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\AgeValidation\\AgeValidation.csproj",
+              "RelativeToolTip": "..\\AgeValidation\\AgeValidation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T13:21:52.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\AgeValidation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AgeValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\AgeValidation\\Program.cs",
+              "RelativeToolTip": "..\\AgeValidation\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAywCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:21:23.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\source\\repos\\GenderValidation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenderValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\Henri\\source\\repos\\GenderValidation\\Program.cs",
+              "RelativeToolTip": "..\\GenderValidation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:20:53.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

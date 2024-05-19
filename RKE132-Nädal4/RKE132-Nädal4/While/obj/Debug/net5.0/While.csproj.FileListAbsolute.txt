@@ -1,0 +1,15 @@
+C:\Users\Henri\source\repos\While\bin\Debug\net5.0\While.exe
+C:\Users\Henri\source\repos\While\bin\Debug\net5.0\While.deps.json
+C:\Users\Henri\source\repos\While\bin\Debug\net5.0\While.runtimeconfig.json
+C:\Users\Henri\source\repos\While\bin\Debug\net5.0\While.runtimeconfig.dev.json
+C:\Users\Henri\source\repos\While\bin\Debug\net5.0\While.dll
+C:\Users\Henri\source\repos\While\bin\Debug\net5.0\While.pdb
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\While.AssemblyInfoInputs.cache
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\While.AssemblyInfo.cs
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\While.dll
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\refint\While.dll
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\While.pdb
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\While.genruntimeconfig.cache
+C:\Users\Henri\source\repos\While\obj\Debug\net5.0\ref\While.dll

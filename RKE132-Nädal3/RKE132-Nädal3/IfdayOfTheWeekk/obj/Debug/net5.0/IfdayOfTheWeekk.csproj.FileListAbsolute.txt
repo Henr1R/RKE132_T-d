@@ -1,0 +1,15 @@
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\bin\Debug\net5.0\IfdayOfTheWeekk.exe
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\bin\Debug\net5.0\IfdayOfTheWeekk.deps.json
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\bin\Debug\net5.0\IfdayOfTheWeekk.runtimeconfig.json
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\bin\Debug\net5.0\IfdayOfTheWeekk.runtimeconfig.dev.json
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\bin\Debug\net5.0\IfdayOfTheWeekk.dll
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\bin\Debug\net5.0\IfdayOfTheWeekk.pdb
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\IfdayOfTheWeekk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\IfdayOfTheWeekk.AssemblyInfoInputs.cache
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\IfdayOfTheWeekk.AssemblyInfo.cs
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\IfdayOfTheWeekk.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\IfdayOfTheWeekk.dll
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\refint\IfdayOfTheWeekk.dll
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\IfdayOfTheWeekk.pdb
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\IfdayOfTheWeekk.genruntimeconfig.cache
+C:\Users\Henri\source\repos\IfdayOfTheWeekk\obj\Debug\net5.0\ref\IfdayOfTheWeekk.dll

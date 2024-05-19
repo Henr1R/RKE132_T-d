@@ -1,0 +1,15 @@
+C:\Users\Henri\source\repos\RandomNumber\bin\Debug\net5.0\RandomNumber.exe
+C:\Users\Henri\source\repos\RandomNumber\bin\Debug\net5.0\RandomNumber.deps.json
+C:\Users\Henri\source\repos\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.json
+C:\Users\Henri\source\repos\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.dev.json
+C:\Users\Henri\source\repos\RandomNumber\bin\Debug\net5.0\RandomNumber.dll
+C:\Users\Henri\source\repos\RandomNumber\bin\Debug\net5.0\RandomNumber.pdb
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfo.cs
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\RandomNumber.dll
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\refint\RandomNumber.dll
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\RandomNumber.pdb
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\RandomNumber.genruntimeconfig.cache
+C:\Users\Henri\source\repos\RandomNumber\obj\Debug\net5.0\ref\RandomNumber.dll

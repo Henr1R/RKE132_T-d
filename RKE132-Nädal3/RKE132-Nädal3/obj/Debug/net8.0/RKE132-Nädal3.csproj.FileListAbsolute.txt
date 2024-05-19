@@ -1,0 +1,14 @@
+C:\Users\Henri\source\repos\RKE132-Nädal3\bin\Debug\net8.0\RKE132-Nädal3.exe
+C:\Users\Henri\source\repos\RKE132-Nädal3\bin\Debug\net8.0\RKE132-Nädal3.deps.json
+C:\Users\Henri\source\repos\RKE132-Nädal3\bin\Debug\net8.0\RKE132-Nädal3.runtimeconfig.json
+C:\Users\Henri\source\repos\RKE132-Nädal3\bin\Debug\net8.0\RKE132-Nädal3.dll
+C:\Users\Henri\source\repos\RKE132-Nädal3\bin\Debug\net8.0\RKE132-Nädal3.pdb
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\RKE132-Nädal3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\RKE132-Nädal3.AssemblyInfoInputs.cache
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\RKE132-Nädal3.AssemblyInfo.cs
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\RKE132-Nädal3.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\RKE132-Nädal3.dll
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\refint\RKE132-Nädal3.dll
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\RKE132-Nädal3.pdb
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\RKE132-Nädal3.genruntimeconfig.cache
+C:\Users\Henri\source\repos\RKE132-Nädal3\obj\Debug\net8.0\ref\RKE132-Nädal3.dll
